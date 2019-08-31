@@ -15,8 +15,9 @@
     {
       "id": 3,
       "name": "Skittles",
-      "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg"
+      "isGoodDog": false,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg",
+      "isGoodBoy": "false"
     },
     {
       "id": 4,
@@ -46,7 +47,8 @@
       "id": 8,
       "name": "Mittens",
       "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg",
+      "isGoodBoy": "false"
     },
     {
       "id": 9,
